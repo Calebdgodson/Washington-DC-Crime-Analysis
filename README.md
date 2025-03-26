@@ -1,15 +1,15 @@
 # Washington DC Crime Analysis
 
 ## Project Description
-This Project is a participation to a dataDNA dataset challenge which is organised by OnyxData for March, 2025. This dataset is focused on Washington DC crime.
+This Project is a participation to a dataDNA dataset challenge which was organised by OnyxData for March, 2025. This dataset is focused on Washington DC crime.
 
 ## Introduction
-With the increasing rate of crimes, crime analysis is pivotal to enhance security in Washington for the protection of lives and properties of residents and prevention of crime. The analysis is aimed at uncovering trends, identifying patterns and equipping the law enforcement with vital information to boost their capacity to combat crimes.
+With the increasing rate of crimes, crime analysis is pivotal to enhance security in Washington DC for the protection of lives and properties of residents, and prevention of crime. The analysis is aimed at uncovering trends, identifying patterns and equipping the law enforcement with vital information to boost their capacity to combat crimes.
 
 ## Objective
 Washington, D.C. has long focused on crime prevention and community safety. This dataset provides detailed insights into crime patterns, allowing analysts to explore crime frequency, geographical hotspots, trends over time, and crime severity.
 
-## ANALYSIS DIRECTION
+## Analysis Direction
 - Total Crimes Reported – Number of crimes committed in a given time period.
 
 - Crimes by Time of Day – Distribution of crimes by shift (Midnight, Day,Evening).
@@ -30,6 +30,18 @@ Washington, D.C. has long focused on crime prevention and community safety. This
 
 - Crime Rate by Police District – Total crimes per district to assess law enforcement efficiency.
 
+## Data Source
+The dataset for the analysis was provided by OnyxData and it can be assessed ...
+
+
+## Tool and Methodology
+The tool used for the analysis is Power BI.
+
+I carried out the following procedures in process of cleaning and transforming the raw dataset;
+- Removed duplicates
+- Converted all columns to their right accurate data types
+- Handling of missing values by deleting rows where the date of the crime committed was null and filled the null values of the districts with the District whihc has the highest frquency of crime.
+
 ## Analysis
 The analysis consists of three dashboards;
 
@@ -40,12 +52,45 @@ The analysis consists of three dashboards;
 The overview dashboard shows different crimes committed, different methods used and the risk of those crime to the districts of Washington DC.
 
 
-- Trend
+- ### Trend
 
-![image alt]()
+![image alt](https://github.com/Calebdgodson/Washington-DC-Crime-Analysis/blob/main/II.%20Trend.png?raw=true)
 
 The Trend dashboard displays different trends of crime and the average resolution time for the crimes.
 
-- Locations
-![image alt]()
+
+- ### Locations
+![image alt](https://github.com/Calebdgodson/Washington-DC-Crime-Analysis/blob/main/III.%20Locations.png?raw=true)
 The Locations dashboard depicts geographical hotspots of crimes in Washington DC and resolution of crime in different Districts.
+
+## Key Insights
+
+1. The highest occurring crime incident was theft/other and most of the crime were committed using other method (weapon).
+
+ii. District 2 has the highest risk for theft/other.
+
+iii. Crime incidents surged through the weekdays, peaking on Friday and most of the crimes were committed in the evening and in the year 2025. 
+
+iv. Arson has the least resolution time while homicide had the highest resolution time.
+
+v. The state center had the most concentration of crime and of all the identified hotspots, Neighborhood cluster 2 and District 5 had the highest occurrence of crime. District 2 has the most resolved crime cases while District 7 has the least ratio of resolved cases.
+
+Recommendations
+
+i. Security education which is aimed at enlightening the residents on how to safeguard their properties against theft, report any suspicious activities to the law enforcement agencies and the State should pass stringent laws against any unauthorize use of other method since it plays a crucial role in crime activities.
+
+ii. More resources and equipment should be deployed to Neighborhood cluster 2, and Districts 5 and 7 in order to curb crime activities.
+
+iii. Since evening is the peak of crime, there should be increase in patrol of security personnel.
+
+iv. Forensic technology should be employed in investigation of homicide in order to reduce the average resolution time.
+
+v. The law enforcement agencies in the Districts (1, 2, 5 and 6) covering the state center should collaborate in intelligence gathering and sharing, and work in synergy as this will help to detect crime, qucikly respond to it and also go a long way to prevent crimes.
+
+## Conclusion
+
+The Washington DC Crime Analysis has generated some important insights from the crime pattern within the state, highlighted some specific areas of concern and generated actionable information for improving security situation of the state. This was done using data analysis techniques and visualization, and uncovered trend(s) of crime, such as prevalence of theft, widespread used of other method to commit crime which occur mostly frequnetly in the evenings and fridays having the peak time for crime activities. Furthermore, the hostpots with the highest rate of crimes are Neighborhood cluster 2, and Dsitricts 5 and 7.
+The analysis highlights targeted interventions including increased presence of law enforcement agencies in areas where there is high crime rates, deploying additional resources to reduce high resolution time for homicide. Furthermore, there should be collobration and intelligence sharing between law enforcement agencies for different Districts which will be crucial for effective crime detection and prevention, particurlarly in the center of Washington DC.
+This analysis provide a basis for informed decision-making, offering recommendations to reduce crime and improve the efficiency of law enforcement agencies in Washington DC. By implementing the recommendations, the security of Washington DC can be improved for the safety of the residents and protection of lives and properties.
+
+Thank you to @OnyxData@ZoomCharts, @EnterpriseDNA, @BCS, The CharteredInstitute for IT, @Smart Frames UI, @Data Career Jumpstart, @ and the hashtag #dataDNA.
