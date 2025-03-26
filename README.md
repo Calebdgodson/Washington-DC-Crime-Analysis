@@ -30,3 +30,18 @@ Washington, D.C. has long focused on crime prevention and community safety. This
 
 - Crime Rate by Police District – Total crimes per district to assess law enforcement efficiency.
 
+## Analysis
+The analysis consists of three dashboards;
+- Overview
+  
+![image alt](https://github.com/Calebdgodson/Washington-DC-Crime-Analysis/blob/3d2b498302760d7227a7f044ca3040d6696d01ba/I.png?raw=true)
+
+
+Dashboards;
+i. Overview: Shows different crimes committed, different methods use and the risk of those crime to the districts of Washington DC.
+ii. Trend: displays different trends of crime and the average resolution time for the crimes.
+iii. Locations: depicts geographical hotspots of crimes in Washington DC and resolution of crime in different Districts.
+
+- Trend
+- Locations
+
