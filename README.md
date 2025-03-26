@@ -1,4 +1,4 @@
-# Washington-DC-Crime-Analysis
+# Washington DC Crime Analysis
 
 ## Project Description
 This Project is a participation to a dataDNA dataset challenge which is organised by OnyxData for March, 2025. This dataset is focused on Washington DC crime.
