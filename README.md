@@ -32,7 +32,7 @@ Washington, D.C. has long focused on crime prevention and community safety. This
 
 ## Analysis
 The analysis consists of three dashboards;
-- ** Overview
+- ### Overview
   
 ![image alt](https://github.com/Calebdgodson/Washington-DC-Crime-Analysis/blob/3d2b498302760d7227a7f044ca3040d6696d01ba/I.png?raw=true)
 
