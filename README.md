@@ -28,4 +28,5 @@ Washington, D.C. has long focused on crime prevention and community safety. This
 
 - Trends Over Time – Year-over-year or month-over-month crime trends.
 
-- Crime Rate by Police District – Total crimes per district to assess lawenforcement efficiency.
+- Crime Rate by Police District – Total crimes per district to assess law enforcement efficiency.
+
