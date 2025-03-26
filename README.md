@@ -1,10 +1,10 @@
 # Washington-DC-Crime-Analysis
 
 ## Project Description
-This Project is a participation to a datatDNA dataset challenge which is organised by OnyxData for March, 2025. This dataset is focused on Washington DC crime.
+This Project is a participation to a dataDNA dataset challenge which is organised by OnyxData for March, 2025. This dataset is focused on Washington DC crime.
 
 ## Introduction
-With the increasing rate of crimes, crime analysis is pivotal to enhance security in Washington for the protection of lives and properties of residents. The analysis is aimed at uncovering trends, identifying patterns and equipping the law enforcement with vital information to boost their capacity to combat crimes.
+With the increasing rate of crimes, crime analysis is pivotal to enhance security in Washington for the protection of lives and properties of residents and prevention of crime. The analysis is aimed at uncovering trends, identifying patterns and equipping the law enforcement with vital information to boost their capacity to combat crimes.
 
 ## Objective
 Washington, D.C. has long focused on crime prevention and community safety. This dataset provides detailed insights into crime patterns, allowing analysts to explore crime frequency, geographical hotspots, trends over time, and crime severity.
